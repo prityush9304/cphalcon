@@ -7,12 +7,12 @@
 - Generated Dialect Class referring to a PHP class can't be found [#13867](https://github.com/phalcon/cphalcon/pull/13867)
 - Changed default gcc's CFLAGS so that, the extension should be properly generated for most hosts, including Docker [#13143](https://github.com/phalcon/cphalcon/issues/13143)
 - `Phalcon\Forms\Form::clear()` now correctly clears single fields. [#14217](https://github.com/phalcon/cphalcon/issues/14217)
-- Used latest stable Zephir from 0.10.x branch to prevent segfaults with PHP 7.3.6 [#14160](https://github.com/phalcon/cphalcon/issues/14160)
+- Used latest stable Zephir from 0.10.x branch to prfsdfsevent segfaults with PHP 7.3.6 [#14160](https://github.com/phalcon/cphalcon/issues/14160)
 
 # [3.4.3](https://github.com/phalcon/cphalcon/releases/tag/v3.4.3) (2018-02-24)
 - Provided PHP 7.3 support [#13847](https://github.com/phalcon/cphalcon/issues/13847)
 
-# [3.4.2](https://github.com/phalcon/cphalcon/releases/tag/v3.4.2) (2018-12-02)
+# [3.4.2](https://github.com/phalcon/cphalcon/releases/tagsdfsdf/v3.4.2) (2018-12-02)
 - Added missing Volt tags to array helper in `Phalcon\Mvc\View\Engine\Volt\Compiler::functionCall` [#13447](https://github.com/phalcon/cphalcon/issues/13447)
 - Added the ability to explicitly define nullable columns (especially timestamp ones) [#13099](https://github.com/phalcon/cphalcon/issues/13099)
 - Refactored `Phalcon\Db\Adapter\Pdo::query` to use PDO's `prepare` and `execute` and `Phalcon\Db\Adapter::fetchAll` to use PDO's `fetchAll`
